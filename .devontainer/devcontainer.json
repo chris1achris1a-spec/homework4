@@ -1,0 +1,5 @@
+{
+  "name": "homework4-weather-time-tools",
+  "image": "mcr.microsoft.com/devcontainers/javascript-node:22",
+  "postCreateCommand": "npm install"
+}
